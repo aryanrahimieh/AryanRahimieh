@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aryan-rahimieh)
 
+* Actively exploring opportunities in Data Science and Machine Learning Engineering
+* Ph.D. in Physics, M.Sc. in Computer Science @USC
+
 <!--
 **aryanrahimieh/AryanRahimieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
